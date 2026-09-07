@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Parth Patel
-# FILENAME: Assignment1-CS4250
+# FILENAME: index.py
 # SPECIFICATION: Inverted Index
 # FOR: CS 4250 - Assignment #1
 # TIME SPENT: 2 hrs
